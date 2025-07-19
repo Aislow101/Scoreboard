@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    /* empty-state */
+
+position: relative;
+width: 575px;
+height: 385px;
+background: #1B244A;
+color: ;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+#title{
+    color: #EEEEEE;
+}
+.score{
+    color: #F94F6D;
+    background-color: #080001;
+    text-align: center;
+    width: 155px;
+    height: 120px;
+    font-size: 90px;
+    margin: 20px;
+
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    background: none;
+    color: #9AABD8;
+    border-color: #9AABD8;
+    border: solid;
+   
+    
+    
+ 
